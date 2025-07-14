@@ -1,3 +1,20 @@
+<p align="center"> <img src="https://i.imgur.com/r5u2f34.png" alt="SQL Database Illustration" width="200"/> </p>
+Your Ultimate LeetCode SQL Practice Guide
+Welcome to your curated list of LeetCode's database challenges! SQL (Structured Query Language) is the backbone of data management and a critical skill for roles in data science, backend engineering, data analysis, and business intelligence.
+
+Working through these problems will sharpen your ability to retrieve, manipulate, and analyze data efficiently. You will master essential concepts ranging from basic selections to advanced analytical functions.
+
+Key Concepts You Will Master:
+Basic Queries: SELECT, WHERE, ORDER BY
+Joins: INNER JOIN, LEFT JOIN, RIGHT JOIN
+Aggregations: GROUP BY, COUNT, SUM, AVG
+Subqueries & CTEs: Nested queries and readable, modular code.
+Window Functions: RANK(), DENSE_RANK(), ROW_NUMBER(), LEAD(), LAG()
+Pivoting Data: Transforming rows into columns.
+Advanced Logic: Handling complex conditions, dates, and strings.
+This list is your roadmap. Start with the "Easy" questions to build your foundation, then challenge yourself with "Medium" and "Hard" problems to solidify your expertise. Good luck!
+
+
 # Here is the list of LeetCode questions you provided, formatted in a clean Markdown table with direct links to each problem.
 
 ### LeetCode Database Questions

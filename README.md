@@ -1,4 +1,7 @@
-![My Logo](my_logo.png)
+<p align="center">
+  <img src="my_logo.png" width="200"/>
+</p>
+
 
 Your Ultimate LeetCode SQL Practice Guide
 Welcome to your curated list of LeetCode's database challenges! SQL (Structured Query Language) is the backbone of data management and a critical skill for roles in data science, backend engineering, data analysis, and business intelligence.

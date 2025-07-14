@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://img.icons8.com/?size=80&id=fiCYSJOnXi7E&format=png 1x, https://img.icons8.com/?size=160&id=fiCYSJOnXi7E&format=png 2x" width="200"/> </p>
+<p align="center"> <img src="https://img.icons8.com/?size=80&id=fiCYSJOnXi7E&format=png 1x" width="200"/> </p>
 Your Ultimate LeetCode SQL Practice Guide
 Welcome to your curated list of LeetCode's database challenges! SQL (Structured Query Language) is the backbone of data management and a critical skill for roles in data science, backend engineering, data analysis, and business intelligence.
 
